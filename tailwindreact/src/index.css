@@ -48,3 +48,9 @@ html {
 .down_svg {
   @apply block w-full h-20 mx-auto absolute top-[100%] animate-bounce ;
 }
+.input_css{
+  @apply border-2 border-gray-400 border-solid ml-[42%] mt-[2rem]
+}
+.parent_css{
+  @apply border-4 border-solid border-indigo-900 h-96 w-80 flex justify-center ml-[40%] mt-[5rem]
+}
